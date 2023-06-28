@@ -9,7 +9,7 @@ public class Osoba
     {
         ImieNazwisko = imieNazwisko;
     }
-
+    
     public string Imie
     {
         get { return imie; }
